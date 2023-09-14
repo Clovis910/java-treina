@@ -22,7 +22,10 @@ public class Exemplo {
 
         int soma = numero1 + numero2;
 
+       int subtracao = numero1 - numero2;
+
         System.out.println("Soma = " + soma);
+         System.out.println("Subtracao= " + subtracao);
 
 
 
