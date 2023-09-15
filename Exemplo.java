@@ -24,11 +24,15 @@ public class Exemplo {
 
         int subtracao = numero1 - numero2;
         int multiplicacao = numero1 * numero2;
+        double divisao = numero1/numero2;
+        double modulo = numero1 % numero2;
         
 
         System.out.println("Soma = " + soma);
          System.out.println("Subtracao= " + subtracao);
          System.out.println("Multiplicacao= " + multiplicacao);
+          System.out.println("Divisao= " + divisao);
+         System.out.println("Modulo= " + modulo);
 
 
 
